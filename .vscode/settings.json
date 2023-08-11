@@ -1,0 +1,13 @@
+{
+  "prettier.bracketSameLine": true,
+  "prettier.enableDebugLogs": false,
+  "prettier.jsxSingleQuote": true,
+  "prettier.singleAttributePerLine": true,
+  "prettier.useTabs": false,
+  "prettier.vueIndentScriptAndStyle": true,
+  "prettier.withNodeModules": true,
+  "prettier.bracketSpacing": false,
+  "prettier.enable": false,
+  "prettier.useEditorConfig": false,
+  "git.ignoreLimitWarning": true
+}
